@@ -1,5 +1,6 @@
 <template>
     <div class="jumbo-container">
+        <img src="../assets/logo.png" alt="">
         <h1>Questa è una prova di jumbotron</h1>
     </div>
 </template>
@@ -19,5 +20,6 @@ export default {
         height: 50vh;
         background-color: red;
         text-align: center;
+        color: white;
     }
 </style>
